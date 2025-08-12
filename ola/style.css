@@ -1,0 +1,133 @@
+*{
+    margin:0;
+    border: border-box;
+
+
+}
+
+
+.navbar{
+    height: 60px;
+    background-color: #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: gentonamedium;
+    font-weight: bold;
+    
+}
+
+.nav-logo{
+    height:44px;
+    display:flex;
+    align-items: center;
+
+   
+    
+}
+
+.nav-logo2{
+    height: 25px;
+    width: 120px;
+    
+}
+
+.nav-logo3{
+      background-image: url("ola.jpg");
+      background-size: cover;
+      height: 27px;
+      width:60px;
+      margin-left: 3rem;
+
+
+}
+
+.box2{
+     height: 1rem;
+     width:60%;
+     
+    
+}
+
+ul{
+    display: flex;
+    color: #FFFFFF;
+    text-decoration: double;
+    margin-left: 1px;
+}
+
+ul a{
+    margin-left: 2rem;
+    color:#FFFFFF;
+    text-decoration: none;
+    
+    
+    
+}
+
+
+.box3{
+    height: 1rem;
+    width:30%;
+     font-family: gentonabook;
+}
+.menulogo{
+    height: 1rem;
+    width: 1rem;
+    color: white;
+}
+.cab-book{
+    border: 1px solid black;
+    background-color: #FFFFFF2B;
+    padding:12px 12px;
+    /* display:flex;
+    align-items: center; */
+    /* height: 1rem; */
+
+}
+
+.test-ride{
+    border: 1px solid black;
+    background-color: #FFFFFF;
+    color: black;
+    padding: 12px 12px;
+}
+
+.menulogo{
+   height: 16px;
+   width: 120px;
+   
+}
+
+.maincar{
+    background-image: url("car.jpg");
+    background-size: cover;
+    height: 365px;
+
+}
+
+.maincar h2{
+    color: white;
+    
+    font-size: 48px;
+    /* width: 200px; */
+    padding-left: 50px;
+    padding-top: 80px;
+    padding-bottom: 150px;
+}
+ .tabs{
+    height: 40px;
+    width: 350px;
+    background-color: #F2F4F6;;
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    margin-left: 350px;
+    text-decoration: none;
+    border: none;
+    
+ }
+
+
+
+
+
