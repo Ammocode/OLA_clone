@@ -13,7 +13,8 @@
     padding-bottom: 10px;
     font-family: gentonamedium;
     font-weight: bold;
-    
+    position:fixed;
+    width:100%;
 }
 
 .nav-logo{
@@ -200,13 +201,14 @@ ul a{
 }
 
 .next1{
-    height: 500px;
+    height: 250px;
     width:1500px;
+   
 }
 .next{
     height: 50px;
     width: 100px;
-    margin-bottom: 1px;
+    margin-bottom: 17px;
     display:contents;
    
 
@@ -241,6 +243,7 @@ ul a{
 .para{
     height: 100px;
     width: 300px;
+    display: flex;
 }
 
 
@@ -260,17 +263,65 @@ ul a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 15px;
     white-space: nowrap;
+    
 }
 .font3{
     font-size: 15px !important;
-    margin-left: 250px !important;
+    margin-left: 230px !important;
     font-family:'Courier New', Courier, monospace;
     margin-bottom: 15px;
      white-space: nowrap;
     height: 20px;
+    text-align: center;
+    width:100%;
+}
+.next3{
+    background-image: url("rides.jpg");
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-left: 300px;
     
-    
+
 }
 
+.up{
+    display: flex;
+}
+
+.next4{
+   height: 150px;
+    width: 150px;
+    background-image: url("distance.jpg");
+    background-size: cover;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;*/
+    margin-left: 250px;
+}
+
+.para1{
+    height: 150px ;
+    width: 300px;
+}
+
+.para2{
+    height: 150px ;
+    width: 300px;
+    /* display:flex; */
+    padding-left: 150px;
+    /* margin-left: 100px; */
+}
+.para3{
+    
+    height: 150px ;
+    width: 300px;
+    /* display:flex; */
+    padding-left: 110px;
+    /* margin-left: 100px; */
+}
 
 
