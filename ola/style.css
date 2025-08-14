@@ -327,5 +327,83 @@ button:hover{
     padding-left: 110px;
     /* margin-left: 100px; */
 }
+.headingpart{
+    height: 100px;
+     margin-bottom: 25px;
+}
+.headingpart h3{
+    /* height: 100px; */
+     margin-top: 150px;
+    margin-left: 350px;
+    margin-bottom: 0.2px;
+    color:rgb(18, 15, 15);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow:
+    -1px -1px 0 green,  
+     1px -1px 0 green,
+    -1px  1px 0 green,
+     1px  1px 0 green;
+    font-size: 55px;
+}
 
 
+.innercontent{
+      display: flex;
+      /* margin-left: 120px; */
+      justify-content: center;
+}
+
+.auto{
+    height: 200px;
+    width: 300px;
+    background-image: url("auto.jpg");
+    background-size: cover;
+}
+
+.luggage{
+    height: 200px;
+    width: 300px;
+    background-image: url("luggage.jpg");
+    background-size: cover;
+    margin-left: 50px;
+}
+
+.time{
+    height: 200px;
+    width: 300px;
+    background-image: url("time.jpg");
+    background-size: cover;
+    margin-left: 50px;
+}
+
+.anotherfont{
+    margin-top: 30px;
+    margin-left: 310px;
+    font-size: 30px;
+    white-space: nowrap;
+}
+
+
+
+.anotherfont1{
+    margin-top: 30px;
+    padding-left: 30px;
+    font-size: 30px;
+    white-space: nowrap;
+}
+
+.an1{
+    margin-left: 210px;
+}
+
+.an2{
+    margin-left: 130px !important;
+}
+
+.an3{
+     margin-left: 150px;
+}
+
+.an4{
+     margin-left: 75px !important;
+}
