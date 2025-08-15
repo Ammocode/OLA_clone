@@ -407,3 +407,147 @@ button:hover{
 .an4{
      margin-left: 75px !important;
 }
+
+.insurance{
+    height: 900px;
+    
+    margin-top: 100px;
+    
+    padding-top: 100px;
+    background-color: rgb(241, 246, 233);
+}
+.insurance1{
+    height: 665px ;
+    margin-top: 10px;
+    
+    margin-left: 150px;
+    margin-right: 150px;
+    /* background-color:lightblue; */
+}
+
+.innerheading {
+    height: 146px;
+}
+
+.innerheading h4{
+    padding-top: 50px !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    
+}
+
+.inner-content{
+    height: 400px;
+    display: flex;
+   /* background-color: aqua; */
+   padding-bottom: 50px;
+}
+.shopping{
+    background-image: url(shopping.jpg);
+    background-size: cover;
+    height: 358px;
+    width:50%;
+    margin-right: 50px;
+}
+.sometext p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+}
+.sometext2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    font-size: 25px !important;
+}
+
+/* .innericons{
+    display: flex;
+    
+} */
+.innericons1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: ; */
+    
+}
+
+.mobile{
+    background-image: url("mobile.jpg");
+    background-size: cover;
+    height: 48px;
+    width:35px;
+    margin-right: 130px;
+    /* margin-left: 20px; */
+    
+}
+
+.percent{
+    background-image: url("percent.jpg");
+    background-size: cover;
+    height: 48px;
+    width:45px;
+     margin-right: 130px;
+}
+
+.money{
+    background-image: url("money.jpg");
+    background-size: cover;
+    height: 48px;
+    width:45px;
+    margin-right: 130px;
+}
+
+.innericons p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    margin-top: 17px;
+    margin-right: 80px;
+}
+
+.inner-para{
+    display: flex;
+}
+
+.inner-content-2{
+    height: 182px;
+    /* background-color: brown; */
+    display: flex;
+}
+
+.inner2 p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    
+}
+
+.inner2 a{
+    font-size: 24px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #16AA51;
+}
+.inner3{
+    display: flex;
+    margin-left: 80px;
+}
+.ride{
+    background-image: url("ride.jpg");
+    background-size: cover;
+    /* height: 170px; */
+    width: 160px;
+    margin-right: 80px;
+}
+.asset{
+    background-image: url("asset.jpg");
+    background-size: cover;
+    width: 160px;
+    margin-right: 80px;
+}
+.daily{
+    background-image: url("daily.jpg");
+    background-size: cover;
+    width: 160px;
+    margin-right: 80px;
+}
