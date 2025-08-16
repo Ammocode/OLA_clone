@@ -551,3 +551,69 @@ button:hover{
     width: 160px;
     margin-right: 80px;
 }
+
+.little{
+    height: 630px;
+    /* background-color: aqua; */
+
+}
+.little1{
+    height: 1000px;
+    
+    display: flex;
+    margin-right: 150px;
+    margin-left: 150px;
+    /* background-color: #92C83E; */
+   
+}
+
+.littleimg{
+    background-image: url("platform.jpg");
+    background-size: cover;
+    height: 500px;
+    width:450px;
+    margin-top: 135px;
+    margin-left: 50px;
+}
+.littlepara p{
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    margin-left: 100px;
+    margin-top: 140px; */
+    margin-top: 120px;
+    margin-left: 100px;
+    margin-bottom: 0.2px;
+    color:rgb(18, 15, 15);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow:
+    -1px -1px 0 green,  
+     1px -1px 0 green,
+    -1px  1px 0 green,
+     1px  1px 0 green;
+    font-size: 48px;
+}
+
+.diff{
+    color:black !important;
+    font-size: 24px !important;
+    margin-top: 30px !important;
+    text-shadow: none !important;
+}
+
+.now{
+    font-size: 24px !important;
+    margin-top: 15px !important;
+    font-weight: 400;
+    font-family: 'Arial Narrow Bold', sans-serif !important;
+    text-shadow: none !important;
+    margin-bottom: 30px !important;
+}
+
+.littlepara a{
+    font-size: 24px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #16AA51;
+    margin-left: 100px;
+   
+}
