@@ -103,7 +103,7 @@ ul a{
     background-image: url("car.jpg");
     background-size: cover;
     height: 365px;
-
+    padding-top:40px ;
 }
 
 .maincar h2{
@@ -555,15 +555,17 @@ button:hover{
 .little{
     height: 630px;
     /* background-color: aqua; */
+    margin-bottom: 250px;
 
 }
 .little1{
-    height: 1000px;
+    height: 750px;
     
     display: flex;
     margin-right: 150px;
     margin-left: 150px;
     /* background-color: #92C83E; */
+    
    
 }
 
@@ -616,4 +618,38 @@ button:hover{
     color: #16AA51;
     margin-left: 100px;
    
+}
+
+.footer{
+    height: 500px;
+    background-color: rgb(51, 51, 51,0.1);
+}
+
+.innerfooter{
+    height: 400px;
+    /* background-color: #16AA51; */
+    margin-left: 230px !important;
+    margin-right: 230px;
+    display: flex;
+    /* align-items: center; */
+    
+}
+.imgfooter{
+    background-image: url("footer.jpg");
+    background-size: cover;
+    height: 250px;
+    width: 750px;
+    
+    margin-left: 20px !important;
+    margin: 90px auto;
+
+}
+
+.footer p{
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 250px;
+    /* margin-top: 70px; */
+}
+.footer a{
+    margin-left: 250px;
 }
